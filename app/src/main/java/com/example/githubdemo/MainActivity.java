@@ -3,11 +3,11 @@ package com.example.githubdemo;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    //before commit
-    //after commit22
+    TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
